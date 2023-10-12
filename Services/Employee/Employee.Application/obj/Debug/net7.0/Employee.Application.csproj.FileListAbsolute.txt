@@ -1,0 +1,11 @@
+D:\Projects\HRM\Services\Employee\Employee.Application\bin\Debug\net7.0\Employee.Application.deps.json
+D:\Projects\HRM\Services\Employee\Employee.Application\bin\Debug\net7.0\Employee.Application.dll
+D:\Projects\HRM\Services\Employee\Employee.Application\bin\Debug\net7.0\Employee.Application.pdb
+D:\Projects\HRM\Services\Employee\Employee.Application\obj\Debug\net7.0\Employee.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HRM\Services\Employee\Employee.Application\obj\Debug\net7.0\Employee.Application.AssemblyInfoInputs.cache
+D:\Projects\HRM\Services\Employee\Employee.Application\obj\Debug\net7.0\Employee.Application.AssemblyInfo.cs
+D:\Projects\HRM\Services\Employee\Employee.Application\obj\Debug\net7.0\Employee.Application.csproj.CoreCompileInputs.cache
+D:\Projects\HRM\Services\Employee\Employee.Application\obj\Debug\net7.0\Employee.Application.dll
+D:\Projects\HRM\Services\Employee\Employee.Application\obj\Debug\net7.0\refint\Employee.Application.dll
+D:\Projects\HRM\Services\Employee\Employee.Application\obj\Debug\net7.0\Employee.Application.pdb
+D:\Projects\HRM\Services\Employee\Employee.Application\obj\Debug\net7.0\ref\Employee.Application.dll

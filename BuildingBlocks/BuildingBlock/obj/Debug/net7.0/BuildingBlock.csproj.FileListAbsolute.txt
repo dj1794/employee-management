@@ -1,0 +1,12 @@
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\bin\Debug\net7.0\BuildingBlock.deps.json
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\bin\Debug\net7.0\BuildingBlock.dll
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\bin\Debug\net7.0\BuildingBlock.pdb
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\obj\Debug\net7.0\BuildingBlock.csproj.AssemblyReference.cache
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\obj\Debug\net7.0\BuildingBlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\obj\Debug\net7.0\BuildingBlock.AssemblyInfoInputs.cache
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\obj\Debug\net7.0\BuildingBlock.AssemblyInfo.cs
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\obj\Debug\net7.0\BuildingBlock.csproj.CoreCompileInputs.cache
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\obj\Debug\net7.0\BuildingBlock.dll
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\obj\Debug\net7.0\refint\BuildingBlock.dll
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\obj\Debug\net7.0\BuildingBlock.pdb
+D:\Projects\HRM\BuildingBlocks\BuildingBlock\obj\Debug\net7.0\ref\BuildingBlock.dll

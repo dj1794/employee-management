@@ -1,0 +1,11 @@
+D:\Projects\HRM\Services\Authentication\Authentication.Application\bin\Debug\net7.0\Authentication.Application.deps.json
+D:\Projects\HRM\Services\Authentication\Authentication.Application\bin\Debug\net7.0\Authentication.Application.dll
+D:\Projects\HRM\Services\Authentication\Authentication.Application\bin\Debug\net7.0\Authentication.Application.pdb
+D:\Projects\HRM\Services\Authentication\Authentication.Application\obj\Debug\net7.0\Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HRM\Services\Authentication\Authentication.Application\obj\Debug\net7.0\Authentication.Application.AssemblyInfoInputs.cache
+D:\Projects\HRM\Services\Authentication\Authentication.Application\obj\Debug\net7.0\Authentication.Application.AssemblyInfo.cs
+D:\Projects\HRM\Services\Authentication\Authentication.Application\obj\Debug\net7.0\Authentication.Application.csproj.CoreCompileInputs.cache
+D:\Projects\HRM\Services\Authentication\Authentication.Application\obj\Debug\net7.0\Authentication.Application.dll
+D:\Projects\HRM\Services\Authentication\Authentication.Application\obj\Debug\net7.0\refint\Authentication.Application.dll
+D:\Projects\HRM\Services\Authentication\Authentication.Application\obj\Debug\net7.0\Authentication.Application.pdb
+D:\Projects\HRM\Services\Authentication\Authentication.Application\obj\Debug\net7.0\ref\Authentication.Application.dll
