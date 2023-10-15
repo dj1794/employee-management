@@ -20,3 +20,5 @@
 /Services/Employee/Employee.Domain/bin/Debug/net7.0
 /Services/Employee/Employee.Domain/obj
 /Services/Employee/Employee.Infrastructure/bin/Debug/net7.0
+/.vs/HRM
+/Api Gateway/Gateway.Api/obj
